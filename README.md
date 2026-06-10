@@ -18,3 +18,4 @@ Anthropic 主催「Code with Claude 2026 | Tokyo」（2026-06-10、日本初開�
 | 6 | [みずほ: AI前提の組織と内製開発の変革](議事録_CodeWithClaude2026Tokyo_セッション6_みずほAI変革.md) | みずほFG（藤井氏 / 染谷氏） | 6:18:20〜6:46:57 |
 | 7 | [The Capability Curve](議事録_CodeWithClaude2026Tokyo_セッション7_CapabilityCurve.md) | Anthropic（Theo Chu） | 7:02:59〜7:22:50 |
 | 8 | [NRI: エンタープライズはどうモデルを選んでいるのか](議事録_CodeWithClaude2026Tokyo_セッション8_NRIモデル選定.md) | NRI（北村雄貴氏） | 7:48:20〜8:12:16 |
+| 9 | [エージェントを大規模・低コストにデプロイする](議事録_CodeWithClaude2026Tokyo_セッション9_エージェント大規模デプロイ.md) | Anthropic（Brad Abrams / Rod Howorth） | 8:33:34〜9:00:59 |
