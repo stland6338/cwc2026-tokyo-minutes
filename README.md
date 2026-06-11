@@ -21,3 +21,6 @@ Anthropic 主催「Code with Claude 2026 | Tokyo」（2026-06-10、日本初開�
 | 7 | [The Capability Curve](議事録_CodeWithClaude2026Tokyo_セッション7_CapabilityCurve.md) | Anthropic（Theo Chu） | 7:02:59〜7:22:50 |
 | 8 | [NRI: エンタープライズはどうモデルを選んでいるのか](議事録_CodeWithClaude2026Tokyo_セッション8_NRIモデル選定.md) | NRI（北村雄貴氏） | 7:48:20〜8:12:16 |
 | 9 | [エージェントを大規模・低コストにデプロイする](議事録_CodeWithClaude2026Tokyo_セッション9_エージェント大規模デプロイ.md) | Anthropic（Brad Abrams / Rod Howorth） | 8:33:34〜9:00:59 |
+| 10 | [ソフトウェア開発の民主化とコミュニティ（最終）](議事録_CodeWithClaude2026Tokyo_セッション10_コミュニティ.md) | Anthropic（辻 純一郎氏） | VOD 8:16:54〜8:35:53 |
+
+> **タイムスタンプについて**: セッション1〜9はライブ配信時の字幕タイムスタンプ、セッション10はアーカイブ（VOD・総時間 8:46:34）基準です。VOD ではライブ時刻より**約14.5分早い位置**になります（例: ライブ 1:02:50 の基調講演開始 ≒ VOD 0:48 付近）。
